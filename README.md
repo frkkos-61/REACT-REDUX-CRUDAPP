@@ -26,9 +26,12 @@
 
 - Payload: Action yanında gönderdiğimiz veri
 
-4.Dispatch: Sevk etmek, Eylemi reducera aktarmaya yarayan fonksiyondur
+  4.Dispatch: Sevk etmek, Eylemi reducera aktarmaya yarayan fonksiyondur
 
-5.Subscribe: Abone olmak, Bileşenlerin store'da tutulan veriye erişim sağlaması
+  5.Subscribe: Abone olmak, Bileşenlerin store'da tutulan veriye erişim sağlaması
 
-6.Provider: Sağlayıcı, Store'da tutulan verileri uygulamaya sağlar
+  6.Provider: Sağlayıcı, Store'da tutulan verileri uygulamaya sağlar
+
 # REACT-REDUX-CRUDAPP
+
+![](tanıtım.gif)
